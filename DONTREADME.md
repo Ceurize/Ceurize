@@ -1,5 +1,0 @@
-- 👋 Hi, I’m @Ceurize
-- 👀 I’m interested in development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: you don't
